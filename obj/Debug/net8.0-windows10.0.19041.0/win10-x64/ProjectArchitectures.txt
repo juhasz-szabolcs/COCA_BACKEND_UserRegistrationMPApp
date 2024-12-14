@@ -1,0 +1,1 @@
+Z:\Szeged_Programfejlesztes_Suli\Asztali_webalkalmayas\12_14_login_app\UserRegistrationMPApp\UserRegistrationMPApp.csproj;x64
